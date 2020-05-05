@@ -31,14 +31,19 @@ export default class Home extends React.Component {
     render(){
 
         return (
-              <div>
+              <div className='container'>
                   {
                       this.state.data.map((item) => (
-                          <div>
-                            <p>Nombre: {`${item.name.title} ${item.name.first} ${item.name.last}`}</p>
-                            <p>Telefono: {item.phone}</p>
-                            <p>Email: {item.email}</p>
+                        
+                          <div className='cards'>
+                            <img src={item.picture.large}/>
+                             <div className='info-items'>
+                               <p>Nombre: {`${item.name.title} ${item.name.first} ${item.name.last}`}</p>
+                               <p>Telefono: {item.phone}</p>
+                               <p>Email: {item.email}</p>
+                             </div>
                          </div>
+                    
                       ))
                   }
               </div>
