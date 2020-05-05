@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/people-cards/static/css/main.b5d6208b.chunk.css",
+    "main.js": "/people-cards/static/js/main.ac1dcedb.chunk.js",
+    "main.js.map": "/people-cards/static/js/main.ac1dcedb.chunk.js.map",
+    "runtime-main.js": "/people-cards/static/js/runtime-main.1cc3879f.js",
+    "runtime-main.js.map": "/people-cards/static/js/runtime-main.1cc3879f.js.map",
+    "static/js/2.ca886677.chunk.js": "/people-cards/static/js/2.ca886677.chunk.js",
+    "static/js/2.ca886677.chunk.js.map": "/people-cards/static/js/2.ca886677.chunk.js.map",
+    "index.html": "/people-cards/index.html",
+    "precache-manifest.066a4befa86adb08b85f91cca52c565d.js": "/people-cards/precache-manifest.066a4befa86adb08b85f91cca52c565d.js",
+    "service-worker.js": "/people-cards/service-worker.js",
+    "static/css/main.b5d6208b.chunk.css.map": "/people-cards/static/css/main.b5d6208b.chunk.css.map",
+    "static/js/2.ca886677.chunk.js.LICENSE.txt": "/people-cards/static/js/2.ca886677.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1cc3879f.js",
+    "static/js/2.ca886677.chunk.js",
+    "static/css/main.b5d6208b.chunk.css",
+    "static/js/main.ac1dcedb.chunk.js"
+  ]
+}
